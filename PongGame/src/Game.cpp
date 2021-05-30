@@ -132,13 +132,13 @@ void Game::Update()
 
 		if (m_Ball[1].x >= 290 || m_Ball[2].x >= 290)
 		{
-			if (m_Ball[3].y >= 80 && m_Ball[0].y <= -80)
+			if (m_Ball[3].y >= 80 || m_Ball[0].y <= -80)
 				m_Ball_Vx *= -1;
 		}
 
 		if (m_Ball[0].x <= -290 || m_Ball[3].x <= -290)
 		{
-			if (m_Ball[2].y >= 80 && m_Ball[1].y <= -80)
+			if (m_Ball[2].y >= 80 || m_Ball[1].y <= -80)
 				m_Ball_Vx *= -1;
 		}	
 

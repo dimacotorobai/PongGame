@@ -4,8 +4,5 @@ c:\users\viorica\source\repos\ponggame\ponggame\src\game.cpp(226): warning C4018
 c:\users\viorica\source\repos\ponggame\ponggame\src\game.cpp(237): warning C4018: '<': signed/unsigned mismatch
 c:\users\viorica\source\repos\ponggame\ponggame\src\game.cpp(248): warning C4018: '<': signed/unsigned mismatch
 c:\users\viorica\source\repos\ponggame\ponggame\src\game.cpp(259): warning C4018: '<': signed/unsigned mismatch
-  OpenGL.cpp
-c:\users\viorica\source\repos\ponggame\ponggame\src\opengl.cpp(50): warning C4018: '<': signed/unsigned mismatch
-  Generating Code...
 c:\users\viorica\source\repos\ponggame\ponggame\src\game.cpp(85): warning C4715: 'Game::Init': not all control paths return a value
   PongGame.vcxproj -> C:\Users\Viorica\source\repos\PongGame\Debug\PongGame.exe
